@@ -1,0 +1,45 @@
+
+body {
+  margin: 40px 35px;
+  font-family: "Quicksand", sans-serif;
+}
+.bg {
+  background-color: #bce2f8;
+  padding: 20px 20px 0px 0px;
+  font-weight: bold;
+}
+#tx1 {
+  color: #1493dd;
+}
+
+#tx2 {
+  color: #fa8700;
+}
+h2 {
+  font-family: "Reenie Beanie", cursive;
+  font-weight: bold;
+}
+footer {
+  display: inline-block;
+  margin: 90px 30px 70px 30px;
+}
+#c1 {
+  background-color: white;
+  padding: 20px 50px 20px 20px;
+  border-radius: 20px;
+  margin: 0 0 0 30px;
+  float: left;
+}
+#c2 {
+  background-color: white;
+  padding: 20px 25px 37px 20px;
+  border-radius: 20px;
+  float: left;
+  margin: 0px 180px 0 140px;
+}
+#c3 {
+  background-color: white;
+  padding: 20px 45px 37px 20px;
+  border-radius: 20px;
+  float: left;
+}
